@@ -1,2 +1,3 @@
 # eslint-plugin-rxjs
-ESLint rules for RxJS 
+
+ESLint rules for RxJS

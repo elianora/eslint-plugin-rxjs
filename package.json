@@ -1,0 +1,25 @@
+{
+  "name": "@elianora/eslint-plugin-rxjs",
+  "version": "0.0.1",
+  "description": "ESLint rules for RxJS ",
+  "keywords": [
+    "lint",
+    "eslint",
+    "rxjs"
+  ],
+  "homepage": "https://github.com/elianora/eslint-plugin-rxjs#readme",
+  "bugs": {
+    "url": "https://github.com/elianora/eslint-plugin-rxjs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elianora/eslint-plugin-rxjs.git"
+  },
+  "license": "MIT",
+  "author": "Elianora Rose",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
